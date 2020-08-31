@@ -1,0 +1,24 @@
+
+         
+           Java program to calculate Average marks and Percentage of 5 subjects
+
+
+
+
+1. Get the marks of all 5 Subjects 	
+		s1,s2,s3,s4,s5
+
+2. Get the total maximum marks of all 5 subjects
+ 
+
+3. Calculate the total marks, average marks, percentage
+
+
+		total marks = s1+s2+s3+s4+s5
+
+		average = total marks / total no.of subjects
+        		= (s1+s2+s3+s4+s5)/5
+
+		percentage= (total marks/total maximum marks)*100	
+
+4. Print the calculated results
